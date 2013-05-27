@@ -11,9 +11,6 @@ A versatile and result driven information assurance developer with 6 years exper
 
 ## Experience
  
-|Duration|Employeer, Position|
-|:----------------------------------|:-
-
 *	**Tactical Network Solutions, Software Engineer**
 
 	Janurary 2012 – present
